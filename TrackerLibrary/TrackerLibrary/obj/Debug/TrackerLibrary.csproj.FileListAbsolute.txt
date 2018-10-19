@@ -1,0 +1,9 @@
+C:\Users\Gibki\source\repos\Csharp\TrackerLibrary\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\Gibki\source\repos\Csharp\TrackerLibrary\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\Gibki\source\repos\Csharp\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Gibki\source\repos\Csharp\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gibki\source\repos\Csharp\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\Gibki\source\repos\Csharp\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+C:\Users\Gibki\source\repos\Csharp\TrackerLibrary\TrackerLibrary\bin\Debug\Dapper.dll
+C:\Users\Gibki\source\repos\Csharp\TrackerLibrary\TrackerLibrary\bin\Debug\Dapper.xml
+C:\Users\Gibki\source\repos\Csharp\TrackerLibrary\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
